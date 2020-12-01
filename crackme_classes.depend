@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606824733 source:d:\repos\crackmes\crackme_classes\main.cpp
+	<windows.h>
+	<stdio.h>
+
